@@ -1,0 +1,9 @@
+1. Crear una Chat en React JS, debes utilizar librerias como Redux, Sagas
+2. El backend idealmente debe ser DJANGO (Pyhton), pero puedes utilizar el que te sea más cómodo.
+
+El chat debe tener un inicio de sesión, que varias personas pueden interactuar en el chat.
+
+
+
+
+
