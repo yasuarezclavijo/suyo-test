@@ -25,3 +25,7 @@ Must have the following features:
   * Python - Bonus
   * Node
   * firebase or similar
+
+## To apply for a job just...
+* fork this repo
+* create a PR with the URL to test try it.
